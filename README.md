@@ -47,7 +47,7 @@
 </details>
 
 <p align="center">
-  <a href="https://github.com/schkins">
+  <a href="https://github.com/kamleshsahu0007/Kamlesh-Sahu/blob/main/README.md">
     <img src="https://komarev.com/ghpvc/?username=shns&color=blue&style=flat)" />
   </a>
 </p>
